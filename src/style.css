@@ -92,7 +92,7 @@
         }
       }
 
-      & button {
+      & .button {
         color: inherit;
         background-color: inherit;
         padding: 6px 12px;
